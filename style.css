@@ -112,12 +112,12 @@ header ul li a:hover,.active{
 }
 @media screen and (max-width:200px){
     body{
-        display:block;
+        display:inline-block;
         width: 100%;}
 }
 @media screen and (min-width:201px)and(max-width:600px){
     body{
-        display: block;
+        display: inline-block;
         width: 100%;
     }
 }
